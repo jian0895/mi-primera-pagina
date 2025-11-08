@@ -15,3 +15,8 @@ También conocimos herramientas colaborativas que permiten la interacción en ti
 Y lo último sobre lo que hemos hablado son las variables como elemento clave dentro de los algoritmos ya que estas guardan datos que pueden cambiar y también nos permiten realizar incluso operaciones matemáticas y generar decisiones lógicas.
 
 En resumen, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
+
+NOMBRE_PAGINA = "Mi Página Personal"
+usuario = "Julian"
+mensaje = f"Hola, {usuario}, bienvenido a {NOMBRE_PAGINA}"
+print(mensaje)
