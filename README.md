@@ -27,7 +27,7 @@ print(mensaje)
 
 **Reflexion personal de los temas vistos y aprendidos.**
 
-En resumen, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
+En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
 
 **Referencias de IA.**
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7 
