@@ -27,11 +27,11 @@ tamaño = int(input("¿Cuánto debe medir cada escalón? (elige un valor entero 
 # Convierte el tamaño ingresado a entero.
 
 # Llamar la función con los valores ingresados
-dibujar_escalera(escalones, tamaño)
-# Dibuja la escalera con los parámetros proporcionados por el usuario.
+dibujar_escalera(escalones, tamaño)# Dibuja la escalera con los parámetros proporcionados por el usuario.
 
 # Mostrar información adicional al usuario
 print("El número de escalones es:", escalones)  # Imprime la cantidad de escalones.
+
 print("El tamaño de cada escalón es:", tamaño)  # Imprime el tamaño de cada escalón.
 
 # Finaliza el dibujo y mantiene la ventana abierta
