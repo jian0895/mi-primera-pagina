@@ -1,1 +1,0 @@
-# Encapsulando la tortuga.
